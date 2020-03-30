@@ -7,4 +7,4 @@ The following hardware is needed:
 - The hardware extension to connect the doorbell to the raspberry (Kicad files available)
 
 
-This is a hobby project. Build and use them at your own risk.
+This is a hobby project. Building and using it is at your own risk.
