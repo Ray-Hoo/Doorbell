@@ -1,5 +1,5 @@
 # Doorbell
-Register your doorbell and get notified by e-mail
+Use you Raspberry PI to register your doorbell and get notified by e-mail!
 
 The following hardware is needed:
 
